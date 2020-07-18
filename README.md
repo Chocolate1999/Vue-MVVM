@@ -19,6 +19,9 @@
 
 <a href="https://github.com/Chocolate1999/Front-end-learning-to-organize-notes">:sunny:小狮子前端の学习:cloud:整理笔记:heart:   Front-end-learning-to-organize-notes</a>
 
+**实现效果：**
+![](https://img-blog.csdnimg.cn/20200718112044259.gif)
+
 
  ## :last_quarter_moon_with_face: 几种实现双向绑定的做法
 
